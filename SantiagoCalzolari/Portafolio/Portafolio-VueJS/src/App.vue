@@ -4,7 +4,7 @@ import NavBar from './components/NavBar.vue';
 
 <template>
    <header>
-      <!--Barra de Navegacion-->
+      <!--Barra de Naveegacion-->
       <NavBar />
 
    </header>
