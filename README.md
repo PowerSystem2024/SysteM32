@@ -44,10 +44,6 @@
       </a>
     </td>
     <td align="center">
-      <a href="https://github.com/Roddri19">
-        <img src="https://avatars.githubusercontent.com/u/130790109?v=4" width="100px;" style="border-radius: 50%;" alt="Rodrigo Leytes"/><br />
-        <b>Rodrigo Leytes</b>
-      </a>
     </td>
     <td align="center">
       <a href="https://github.com/Nemesoldier">
