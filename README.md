@@ -43,15 +43,6 @@
         <b>Leonel Palominos</b>
       </a>
     </td>
-    <td align="center">
-    </td>
-    <td align="center">
-      <a href="https://github.com/Nemesoldier">
-        <img src="https://avatars.githubusercontent.com/u/178342050?v=4" width="100px;" style="border-radius: 50%;" alt="Matías Gómez"/><br />
-        <b>Matías Gómez</b>
-      </a>
-    </td>
-  </tr>
   <tr>
     <td align="center">
       <a href="https://github.com/Horacioq2119">
